@@ -1,0 +1,1 @@
+C:\Python\Python37-32\python.exe C:\Work\diplom\clientAddData.py >> LogClient.txt

@@ -1,0 +1,71 @@
+.btnDel
+{
+    border-radius: 5px;
+    font-size: 16px;
+}
+.btnCh
+{
+    border-radius: 5px;
+    font-size: 16px;
+}
+canvas 
+{
+	border: 1px dashed black;
+}
+.divON
+{
+    border: 1px solid #16a2b8;
+    color: green;
+    border-radius: 10%;
+    font-size: 12px;
+    font-weight:bold;
+    height: 20px;
+	width: 55px;
+}
+.divON:hover 
+{
+    background:#16a2b8;
+    color: white;
+}
+.divOFF
+{
+    border: 1px solid #16a2b8;
+    color: red;
+    border-radius: 10%;
+    font-size: 12px;
+    font-weight:bold;
+    height: 20px;
+	width: 55px;
+}
+.divOFF:hover 
+{
+    background:#16a2b8;
+    color: red;
+}
+.nadCPU
+{
+    position: absolute;
+    top: 81px;
+    left: 115px;
+    color: #FF0000;
+    font-weight:bold;
+    font-size: 12px;
+}
+.nadRAM
+{
+    position: absolute;
+    top: 223px;
+    left: 115px;
+    color: #FF0000;
+    font-weight:bold;
+    font-size: 12px;
+}
+.nadHDD
+{
+    position: absolute;
+    top: 366px;
+    left: 115px;
+    color: #FF0000;
+    font-weight:bold;
+    font-size: 12px;
+}
